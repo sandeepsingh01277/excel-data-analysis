@@ -1,6 +1,6 @@
 # 📊 Excel Data Analysis Portfolio
 
-This repository contains my Excel practice while preparing for Data Analyst internships.
+This repository contains my Excel practice while preparing for Data Analyst.
 
 ## Datasets
 
